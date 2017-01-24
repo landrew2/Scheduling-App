@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Class Scheduling</string>
+    <string name="sunday_label">Sun:</string>
+    <string name="saturday_label">Sat:</string>
+    <string name="friday_label">Fri:</string>
+    <string name="thursday_label">Thurs:</string>
+    <string name="wednesday_label">Wed:</string>
+    <string name="tuesday_label">Tues:</string>
+    <string name="monday_label">Mon:</string>
+    <string name="class_days">Class Days:</string>
+    <string name="end_time_section_creator">End time :</string>
+    <string name="start_time_section_creator">Start time :</string>
+    <string name="create_section_button">create section</string>
+    <string name="comments_section_creator">Comments:</string>
+    <string name="section_section_creator">Section:</string>
 </resources>
